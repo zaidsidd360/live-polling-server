@@ -1,4 +1,4 @@
-import Poll from "../models/poll.js";
+import Poll from "../models/Poll.js";
 
 // Function to get poll data for HTTP requests
 export const getPollData = async (req, res) => {
