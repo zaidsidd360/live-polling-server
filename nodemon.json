@@ -2,5 +2,5 @@
 	"watch": ["server.js", "controllers/", "routes/"],
 	"ext": "js,json",
 	"ignore": ["node_modules/"],
-	"exec": "babel-node server.js"
+	"exec": "node server.js"
 }
